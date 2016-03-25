@@ -1,5 +1,3 @@
-<?xml version="2.0" encoding="utf-8"?>
-
 <VAST version="2.0">
     <Ad id="static">
         <InLine>
@@ -21,7 +19,7 @@
                             <Tracking event="fullscreen">http://example.com/pixel.gif</Tracking>
                         </TrackingEvents>
                         <VideoClicks>
-                            <ClickThrough>http://www.longtailvideo.com/</ClickThrough>
+                            <ClickThrough>http://www.jwplayer.com/</ClickThrough>
                             <ClickTracking>http://example.com/pixel.gif</ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
